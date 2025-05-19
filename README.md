@@ -56,7 +56,7 @@
 
 ### 🛰️ Connect with Me
 
-- 🌐 [discord.gg/CXYuur3VxG](https://discord.gg/pXQV3hbFjP)
+- 🌐 [discord.gg/pXQV3hbFjP](https://discord.gg/pXQV3hbFjP)
 - 🛠️ DM for private script work or NorthStar RP development info
 
 
