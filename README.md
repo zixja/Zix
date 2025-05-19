@@ -58,7 +58,7 @@
 
 - 🌐 [discord.gg/CXYuur3VxG](https://discord.gg/CXYuur3VxG)
 - 🛠️ DM for private script work or NorthStar RP development info
-## Hi there 👋
+
 
 <!--
 **decripterr/decripterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
