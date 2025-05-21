@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm decripterr</h1>
 <p align="center">
-  🚔 QBCore Developer | 💻 Building immersive FiveM systems | 🎯 Founder of NorthStar RP
+  🚔 FiveM Developer | 💻 Building immersive FiveM systems | 🎯 Founder of NorthStar RP
 </p>
 
 ---
